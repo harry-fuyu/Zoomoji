@@ -1,0 +1,56 @@
+# create:
+# conda env create --prefix sbi_multix_env --file environment.yml
+#
+# update:
+# conda env update --prefix sbi_multix_env --file environment.yml --prune
+#
+# activate (see below for auto-activation):
+# conda activate ~/path/to/sbi/.ndexs_env/
+#
+name: Zoomoji
+
+channels:
+  - conda-forge
+  # - pytorch
+
+dependencies:
+  # - autopep8
+  # - autoflake
+  # - black
+  # - cudatoolkit
+  # - flake8
+  # - isort
+  # - jupyter
+  - matplotlib
+  # - nbstripout
+  - numpy
+  - pip
+  - pip:
+    - opencv-python
+    - imutils
+  # - pytest
+  # - pytest-pep8
+  # - python
+  # - pytorch
+  # - scikit-learn
+  # - scipy
+  # - tensorboard
+  # - tqdm
+
+# ADDITIONAL INSTRUCTIONS
+#
+# --- Nicer prompt ---
+# $ conda config --set env_prompt '({name}) '
+# (adds in ~/.condarc the line: env_prompt '({name}) ')
+#
+# --- Automatic activation of environments upon cd (bash) ---
+# Add the following in your .bashrc
+# function cd {
+#          builtin cd "$@"
+#          RET=$?
+#          venv
+#          return $RET
+# }
+# venv (){
+#      conda activate $PWD/.${PWD##*/}_env > /dev/null 2>&1
+# }
