@@ -1,0 +1,47 @@
+==> 2020-12-25 14:57:01 <==
+# cmd: /Users/joeykhuang/anaconda3/bin/conda-env create --prefix zoomoji --file environment.yml --force
+# conda version: 4.8.3
++conda-forge/noarch::cycler-0.10.0-py_2
++conda-forge/noarch::olefile-0.46-pyh9f0ad1d_1
++conda-forge/noarch::pip-20.3.3-pyhd8ed1ab_0
++conda-forge/noarch::pyparsing-2.4.7-pyh9f0ad1d_0
++conda-forge/noarch::python-dateutil-2.8.1-py_0
++conda-forge/noarch::six-1.15.0-pyh9f0ad1d_0
++conda-forge/noarch::tzdata-2020d-h516909a_0
++conda-forge/noarch::wheel-0.36.2-pyhd3deb0d_0
++conda-forge/osx-64::ca-certificates-2020.12.5-h033912b_0
++conda-forge/osx-64::certifi-2020.12.5-py39h6e9494a_0
++conda-forge/osx-64::freetype-2.10.4-h3f75d11_0
++conda-forge/osx-64::jpeg-9d-hbcb3906_0
++conda-forge/osx-64::kiwisolver-1.3.1-py39heea7e63_0
++conda-forge/osx-64::lcms2-2.11-h11f7e16_1
++conda-forge/osx-64::libblas-3.9.0-3_openblas
++conda-forge/osx-64::libcblas-3.9.0-3_openblas
++conda-forge/osx-64::libcxx-11.0.0-h4c3b8ed_1
++conda-forge/osx-64::libffi-3.3-h046ec9c_2
++conda-forge/osx-64::libgfortran-5.0.0-h6c81a4c_15
++conda-forge/osx-64::libgfortran5-9.3.0-h6c81a4c_15
++conda-forge/osx-64::liblapack-3.9.0-3_openblas
++conda-forge/osx-64::libopenblas-0.3.12-openmp_h54245bb_1
++conda-forge/osx-64::libpng-1.6.37-h7cec526_2
++conda-forge/osx-64::libtiff-4.2.0-h355d032_0
++conda-forge/osx-64::libwebp-base-1.1.0-hbcb3906_3
++conda-forge/osx-64::llvm-openmp-11.0.0-h73239a0_1
++conda-forge/osx-64::lz4-c-1.9.2-hb1e8313_3
++conda-forge/osx-64::matplotlib-3.3.3-py39h6e9494a_0
++conda-forge/osx-64::matplotlib-base-3.3.3-py39h5674cf4_0
++conda-forge/osx-64::ncurses-6.2-h2e338ed_4
++conda-forge/osx-64::numpy-1.19.4-py39he588a01_2
++conda-forge/osx-64::openssl-1.1.1i-h35c211d_0
++conda-forge/osx-64::pillow-8.0.1-py39h38d7768_0
++conda-forge/osx-64::python-3.9.1-h1d169a7_2_cpython
++conda-forge/osx-64::python_abi-3.9-1_cp39
++conda-forge/osx-64::readline-8.0-h0678c8f_2
++conda-forge/osx-64::setuptools-49.6.0-py39h2c36a5b_2
++conda-forge/osx-64::sqlite-3.34.0-h17101e1_0
++conda-forge/osx-64::tk-8.6.10-h0419947_1
++conda-forge/osx-64::tornado-6.1-py39h5a22ff9_0
++conda-forge/osx-64::xz-5.2.5-haf1e3a3_1
++conda-forge/osx-64::zlib-1.2.11-h7795811_1010
++conda-forge/osx-64::zstd-1.4.5-h289c70a_2
+# update specs: ['matplotlib', 'pip', 'numpy']

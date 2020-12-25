@@ -1,0 +1,36 @@
+{
+  "build": "py39h6e9494a_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/osx-64",
+  "constrains": [],
+  "depends": [
+    "matplotlib-base >=3.3.3,<3.3.4.0a0",
+    "python >=3.9,<3.10.0a0",
+    "python_abi 3.9.* *_cp39"
+  ],
+  "extracted_package_dir": "/Users/joeykhuang/anaconda3/pkgs/matplotlib-3.3.3-py39h6e9494a_0",
+  "features": "",
+  "files": [],
+  "fn": "matplotlib-3.3.3-py39h6e9494a_0.tar.bz2",
+  "license": "LicenseRef-PSF-based",
+  "license_family": "PSF",
+  "link": {
+    "source": "/Users/joeykhuang/anaconda3/pkgs/matplotlib-3.3.3-py39h6e9494a_0",
+    "type": 1
+  },
+  "md5": "29df212b86d93330f6d41a559bc6f7a5",
+  "name": "matplotlib",
+  "package_tarball_full_path": "/Users/joeykhuang/anaconda3/pkgs/matplotlib-3.3.3-py39h6e9494a_0.tar.bz2",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "matplotlib",
+  "sha256": "3d01aba9cedb0357618c6bace1991f143167e2d5f9e84417c1c4abbdb34e0f87",
+  "size": 6371,
+  "subdir": "osx-64",
+  "timestamp": 1605180780845,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/osx-64/matplotlib-3.3.3-py39h6e9494a_0.tar.bz2",
+  "version": "3.3.3"
+}
