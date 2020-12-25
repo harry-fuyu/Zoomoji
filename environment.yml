@@ -1,11 +1,11 @@
 # create:
-# conda env create --prefix sbi_multix_env --file environment.yml
+# conda env create --prefix zoomoji --file environment.yml
 #
 # update:
-# conda env update --prefix sbi_multix_env --file environment.yml --prune
+# conda env update --prefix zoomoji --file environment.yml --prune
 #
 # activate (see below for auto-activation):
-# conda activate ~/path/to/sbi/.ndexs_env/
+# conda activate ~/path/to/zoomoji/.ndexs_env/
 #
 name: Zoomoji
 
@@ -27,7 +27,8 @@ dependencies:
   - pip
   - pip:
     - opencv-python
-    - imutils
+    - cmake
+    - dlib
   # - pytest
   # - pytest-pep8
   # - python
