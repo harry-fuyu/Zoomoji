@@ -27,6 +27,7 @@ dependencies:
   - pip
   - pip:
     - opencv-python
+    - imutil
     - cmake
     - dlib
   # - pytest
