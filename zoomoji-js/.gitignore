@@ -1,0 +1,28 @@
+.DS_Store
+dist
+!videochat/dist
+# Storm
+.idea/*
+.idea/workspace.xml
+
+# Sublime
+*.sublime-*
+
+# vscode
+.vscode
+
+# npm packages
+node_modules/
+npm-debug.log
+npm-debug.log.*
+
+# packages from "npm pack"
+*.tgz
+
+build
+
+# *Sublime
+*.sublime-*
+
+#vscode
+.vscode
